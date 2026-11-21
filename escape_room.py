@@ -1,5 +1,3 @@
-"""Five-room terminal escape game by Aqsa Shoaib (original project: January 20, 2026)."""
-
 import random
 
 
