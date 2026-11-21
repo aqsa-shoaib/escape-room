@@ -30,7 +30,3 @@ On systems that use `python3`, run `python3 escape_room.py` instead.
 - Random number generation
 - Dictionaries and tuples
 - Organizing a game into reusable challenges
-
-## Project history
-
-This is a cleaned-up version of Aqsa's original five-room escape-room assignment. The revised version keeps the same challenges while fixing loops that could get stuck, validating player responses, and organizing game logic into separate functions.
